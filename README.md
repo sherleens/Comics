@@ -6,7 +6,7 @@ The Comics datset contains more than $10,000$ images belongs to $8$ categories. 
 
 ###  File Structure
 
-The IP102 dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1I5NKaa7B8lmB9bqsz4tGZA) (pw: meg3) or [Google](https://drive.google.com/open?id=1dnw8Z4XIADWBdLX0ecokRwqVmRKJa-QP). The folders are arranged like this:
+The Comics dataset can be downloaded from [Baidu](https://pan.baidu.com/s/12oqR1y4l-1Hf2_hQVtuecg) or [Google](https://drive.google.com/file/d/1nSFsFivyw3Et29cP_z_2Ta1qGSUEr_Sh/view?usp=sharing). The folders are arranged like this:
 
 ```
 Comics
@@ -23,7 +23,7 @@ Comics
 
 ### Class Examples
 
-![屏幕快照 2019-08-12 20.42.58](/Users/shedongyu/Desktop/屏幕快照 2019-08-12 20.42.58.png)
+![](example.png)
 
 
 
@@ -40,7 +40,7 @@ Comics
 
 
 
-### Additional Information
+### Citation
 If you find the Comics helpful, please cite it as
 ```
 @article{She19sentiment,
@@ -53,4 +53,3 @@ If you find the Comics helpful, please cite it as
 ```
 
 ATTN: This dataset is free for academic usage. For other purposes, please contact Dongyu She (sherry6656@163.com).
-# Comics
