@@ -1,6 +1,6 @@
 ## Comics Dataset for Visual Sentiment Recognition
 
-The Comics datset contains more than $10,000$ images belongs to $8$ categories. In specific, we use *Amusement, Awe, Contentment, Excitement* as positive sentiment, and *Anger, Disgust, Fear, Sadness* as negative sentiment. The images are collected from about seventy comics of various countries (e.g., America, Japan, China and France). About seventy comics are selected as candidates, e.g., Sponge Bob, Spiderman, The Avengers, One Piece, Slam Dunk, etc.  Finally, a total of $10,281$ comic images are selected and roughly divided into Comic subset and Manga subset.
+The Comics datset contains more than 10,000​ images belongs to $8$ categories. In specific, we use *Amusement, Awe, Contentment, Excitement* as positive sentiment, and *Anger, Disgust, Fear, Sadness* as negative sentiment. The images are collected from about seventy comics of various countries (e.g., America, Japan, China and France). About seventy comics are selected as candidates, e.g., Sponge Bob, Spiderman, The Avengers, One Piece, Slam Dunk, etc.  Finally, a total of 10,281​ comic images are selected and roughly divided into Comic subset and Manga subset.
 
 
 
