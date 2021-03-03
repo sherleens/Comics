@@ -6,7 +6,7 @@ The Comics datset contains more than 10,000​ images belongs to 8​ categories
 
 ###  File Structure
 
-The Comics dataset can be downloaded from [Baidu](https://pan.baidu.com/s/12oqR1y4l-1Hf2_hQVtuecg) or [Google](https://drive.google.com/file/d/1nSFsFivyw3Et29cP_z_2Ta1qGSUEr_Sh/view?usp=sharing). The folders are arranged like this:
+The Comics dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1o_cI2fWGT0aDmfI0NU8vqA)(password: 7k95). The folders are arranged like this:
 
 ```
 Comics
